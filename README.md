@@ -5,7 +5,7 @@ A pandas script that analyses 100 sales transactions from January to April 2024.
 ## Project Structure
 
 
-sales-data-analysis/
+sales-data-analysis
 ├── sales_analysis.py      # Main analysis script
 ├── sales_data.csv         # Input data (100 rows, 7 columns)
 ├── analysis_report.md     # Generated report
