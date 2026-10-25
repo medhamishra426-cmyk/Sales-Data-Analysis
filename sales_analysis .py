@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 
-df = pd.read_csv('/content/sales_data.csv')
+df = pd.read_csv('sales_data.csv')
 
 print(df.shape)
 print(df.columns.tolist())
